@@ -36,6 +36,8 @@
     <div class="container">
         <h2>Welcome to the Beautiful Data JSP Page</h2>
         <p>This is an enhanced example of a JSP file with better styling.</p>
+        <p>Dor Slagter</p>
+        <p>Shahar Tevelov</p>
         <p class="date">Current Date: <%= new java.util.Date() %></p>
     </div>
 </body>
