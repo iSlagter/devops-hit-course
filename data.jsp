@@ -1,4 +1,4 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page contentType="text/html;charset=UTF-8" language="jaa" %>
 <html>
 <head>
     <title>Beautiful Data JSP Page</title>
